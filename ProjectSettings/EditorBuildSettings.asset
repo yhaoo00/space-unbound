@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Main menu.unity
+    guid: f4d4f1910275c3c4cb33c4f6e4f6bbc2
+  - enabled: 1
+    path: Assets/Tutorial1.unity
+    guid: 08f2619efc21cde46ad50013a0bf3146
+  - enabled: 1
+    path: Assets/Tutorial2.unity
+    guid: c41dad52569e11b478cd0846531607cc
+  - enabled: 1
+    path: Assets/Tutorial3.unity
+    guid: 9ea953cbb780d1148a5b881b750829ab
+  - enabled: 1
+    path: Assets/Level1.unity
+    guid: ecac16afea412524abfc31ac6b6bea4f
+  - enabled: 1
+    path: Assets/Level2.unity
+    guid: e5297f0d66a4b7d4ba65ed6c70cdaf20
+  - enabled: 1
+    path: Assets/Level3.unity
+    guid: 30a46eb14acb7fc4aada49e133593004
+  - enabled: 1
+    path: Assets/Level4.unity
+    guid: 2a992630e150a2341b8fe532409c7ccf
+  - enabled: 1
+    path: Assets/Level5.unity
+    guid: 63f09c2466fff3046b5167b0bfd34a13
+  - enabled: 1
+    path: Assets/Level6.unity
+    guid: 9ab6c354b3dc4fe4ab84199f7ce41218
+  - enabled: 1
+    path: Assets/End.unity
+    guid: 5767ec619d0f57c4f87d82e8d48a27ce
+  - enabled: 1
+    path: Assets/Laboratory.unity
+    guid: 6316eea1b1beec74bac02bc2ee9519ef
+  m_configObjects: {}
